@@ -1,0 +1,10 @@
+C:\Users\squar\source\repos\Approximate PI\Approximate PI\bin\Debug\Approximate PI.exe.config
+C:\Users\squar\source\repos\Approximate PI\Approximate PI\bin\Debug\Approximate PI.exe
+C:\Users\squar\source\repos\Approximate PI\Approximate PI\bin\Debug\Approximate PI.pdb
+C:\Users\squar\source\repos\Approximate PI\Approximate PI\obj\Debug\Approximate PI.csproj.AssemblyReference.cache
+C:\Users\squar\source\repos\Approximate PI\Approximate PI\obj\Debug\Approximate_PI.Form1.resources
+C:\Users\squar\source\repos\Approximate PI\Approximate PI\obj\Debug\Approximate_PI.Properties.Resources.resources
+C:\Users\squar\source\repos\Approximate PI\Approximate PI\obj\Debug\Approximate PI.csproj.GenerateResource.cache
+C:\Users\squar\source\repos\Approximate PI\Approximate PI\obj\Debug\Approximate PI.csproj.CoreCompileInputs.cache
+C:\Users\squar\source\repos\Approximate PI\Approximate PI\obj\Debug\Approximate PI.exe
+C:\Users\squar\source\repos\Approximate PI\Approximate PI\obj\Debug\Approximate PI.pdb
